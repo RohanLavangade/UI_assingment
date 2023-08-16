@@ -1,0 +1,95 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    background-image: linear-gradient(to right,rgb(222, 129, 129),rgb(246, 246, 125),rgba(139, 229, 139, 0.803), rgba(255, 192, 203, 0.611));
+}
+#A{
+    color: #1a5f7fb8;
+    
+}
+.grp{
+    color:rgb(165, 42, 42);
+}
+.ro{
+    color:#6a3c7fd4;
+}
+.aa{
+    color: #c03cb1e7;
+   
+}
+.AA{
+    color: #125db8e1;
+
+    
+}
+.rr{
+    color:rgb(205 22 225 / 64%);
+}
+#k1{
+  
+  
+  height: 90px;
+  border-radius: 90px;;
+  border-color:rgb(162 124 214 / 67%);
+  right: 1px;
+  position: absolute;
+  border: double 7px rgba(186, 103, 103, 0.688);
+} 
+
+#E{
+    border: solid rgba(47, 174, 200, 0.214);
+}
+#S{
+    
+    
+    margin-left: 500px;
+    padding-top: 30px;
+    font-size: 40px;
+}
+#k2{
+    height: 50px;
+    bottom: 1px;
+    position: fixed;
+    right: 1px;
+}
+#d1{
+    
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+}
+.Rohan{
+    margin-top: 7px;
+    color: red;
+}
+#main-d2-d3{
+ 
+  height: 350px;
+  width: 850px;
+  margin-left: 120px;
+  display: grid;
+  grid-template-columns: 600px 600px;
+  
+}
+
+
+.proje{
+    border: solid;
+    border-radius: 20px;
+    height: 280px;
+    width: 300px;
+    margin-top: 35px;
+    background-color: rgba(72, 169, 211, 0.636);
+    padding-top: 20px;
+}
+#d3{
+    
+    padding-left: 8px;
+}
+#B{
+    padding-top: 40px;
+}
+#B-1{
+    padding-top: 20px;
+}

@@ -1,0 +1,23 @@
+.mycard{
+    height: 300px;
+    margin-left: 150px;
+    margin-top: 50px;
+}
+.cardt{
+ font-size: 12px;
+}
+#main{
+    display: grid;
+    grid-template-columns: 350px 350px 350px;
+    
+}
+.imgcarousel{
+    height: 450px;
+    border-radius: 10px;
+}
+.mycarousel{
+    width: 120vh;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
